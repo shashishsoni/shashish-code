@@ -1,0 +1,4 @@
+unstaged work
+stage work 
+commit work 
+push work
