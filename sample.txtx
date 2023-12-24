@@ -1,0 +1,2 @@
+#undo the commit 
+gut reset --hard <hash>
