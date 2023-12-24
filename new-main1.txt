@@ -1,0 +1,3 @@
+to make a new branch in the tag
+--git checkout -b <branch-name>
+than commit the file and then it will show the new branch after this txt was created:
